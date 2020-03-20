@@ -1,6 +1,11 @@
-# AndriodProject
+# MONSTER HUNTER WOELD
 # Introduction
+อยากล่าแหย้ครับ
 # Componant
+1. Fragment
+2. Recycler view
+3. Facebook authentication
+4. Dialog
 # Screenshot
 1. หน้า Login
 
