@@ -1,4 +1,4 @@
-# MONSTER HUNTER WOELD
+# MONSTER HUNTER WORLD
 # Introduction
 อยากล่าแหย้ครับ
 # Componant
